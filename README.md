@@ -124,7 +124,7 @@ I am interested in learning Mobile developing and NodeJs.
 <a href="https://www.instagram.com/a.fazildjanov7" target="_blank">
   <img align="center" alt="Abdulloh Foziljonov| Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
 </a> &nbsp;&nbsp;
-<a href="abdullohfoziljonov019@gmail.com" >
+<a href="muhammadfoziljonov019@gmail.com" >
   <img align="center" alt="Abdulloh Foziljonov| Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
 </a> &nbsp;&nbsp;
 <a href="https://www.facebook.com/abdulloh.foziljonov">

@@ -157,7 +157,7 @@ I am interested in learning Mobile developing and NodeJs.
     
 <!-- retro visitor counter -->  
 <p align="center" >   
-  <img src="https://profile-counter.glitch.me/abdulloh023/count.svg" />  
+  <img src="https://profile-counter.glitch.me/Abdullohali/count.svg" />  
 </p>
    
   
@@ -182,7 +182,7 @@ I am interested in learning Mobile developing and NodeJs.
 
 ------
 
-[Abdulloh_Foziljonov](https://github.com/abdulloh023)
+[Abdulloh_Foziljonov](https://github.com/Abdullohali)
 
 Last Edited on: 09/09/2021
 

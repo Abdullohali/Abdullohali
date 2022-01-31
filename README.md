@@ -8,7 +8,7 @@
 ### 💻 &nbsp;About Me 
 
 - 🤔 &nbsp; Exploring new technologies and developing programming insights.
-- 🎓 &nbsp; Flutter developer "Junior".
+- 🎓 &nbsp; Flutter developer "Strong Junior".
 
 I am Computer Engineering student and a Certified Flutter Developer by Najot ta'im .<br/>
 I am interested in learning Mobile developing and NodeJs.

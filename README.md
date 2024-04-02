@@ -118,7 +118,7 @@ I am interested in learning Mobile developing and NodeJs.
   </div>
 <p align="center">
 </a> &nbsp;&nbsp;
-<a href="https://twitter.com/Odam_bolasii" target="_blank">
+<a href="https://twitter.com/BolasiiOdam" target="_blank">
   <img align="center" alt="Abdulloh Foziljonov| Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
 </a> &nbsp;&nbsp;
 <a href="https://www.instagram.com/a.fazildjanov7" target="_blank">
